@@ -1,0 +1,28 @@
+# 🏦 Bank Management System (Java + Swing + MySQL)
+
+## 📌 Project Description
+This is a **Bank Management System** desktop application built using **Java Swing** and **MySQL**.
+It simulates basic ATM functionalities like account creation, login, deposit, withdrawal, and more.
+
+---
+
+## 🚀 Features
+- 🔐 User Login System
+- 📝 Account Registration (3-step signup)
+- 💰 Deposit Money
+- 💸 Withdraw Money
+- ⚡ Fast Cash
+- 📄 Mini Statement
+- 🔄 PIN Change
+- 💳 Balance Enquiry
+
+---
+
+## 🛠️ Tech Stack
+- Java (Core Java + Swing)
+- MySQL Database
+- JDBC (MySQL Connector)
+
+---
+
+## 📂 Project Structure
